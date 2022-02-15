@@ -21,6 +21,5 @@
                       Our team will connect soon by your respective details!";
 		$stmt->close();
 		$conn->close();
-		
 	}
 ?>
