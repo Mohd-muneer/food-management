@@ -15,6 +15,6 @@
 		echo $execval;
 		echo "    Thank you For Joining With Us....";
 		$stmt->close();
-		$conn->close();
+		$conn->close();		
 	}
 ?>
